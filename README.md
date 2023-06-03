@@ -15,7 +15,6 @@ This `CourseController` class is a part of a Spring Boot application for managin
 
 6. `deleteCourse(int courseID)` - This method is mapped to the URL "/courses/delete/{courseID}" and deletes a course with the specified `courseID` from the system. It returns an HTTP response indicating the status of the operation.
 
-7. `deleteCourseById(String ID)` - This method is mapped to the URL "/courses/deletecourse/{ID}" (demo mapping) and returns a string message indicating the successful deletion of a course with ID 11. (Note: This method is not related to the main functionality and may be used for testing or demonstration purposes.)
 
 These methods handle various CRUD (Create, Read, Update, Delete) operations for managing courses in the application.
 
