@@ -1,5 +1,9 @@
 # coursemanagementapp - YHills Task 2
 Task 2 : Create a Spring Boot project name course management app and perform CRUD Operations using any testing tool like postman.
+
+Capstone Project -------> Course Management App using Spring Boot
+
+Tech Used : Maven, JDK11, Spring DATA Rest, Lombok, MySQL, embedded TomCat server
 # Description of Controller 
 This `CourseController` class is a part of a Spring Boot application for managing courses. Here's a brief description of each method:
 
